@@ -1,2 +1,2 @@
 # Learning rust
-Beginner rust.
+Beginner rust
