@@ -1,2 +1,2 @@
-# Learning_rust
+# Learning rust
 Beginner rust
